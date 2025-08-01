@@ -13,7 +13,7 @@ Este proyecto permite jugar una versión personalizada de "Piedra, Papel o Tijer
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/Lezard-21/rock_paper_scizor.git
    cd rock_paper_scizor
    ```
 2. (Opcional) Crea y activa un entorno virtual:
